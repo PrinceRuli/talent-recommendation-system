@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 b1532516c121b19b6ad61cbb8df5d8088127c52a PrinceRuli <princeruli92@gmail.com> 1777190756 +0700	commit (initial): Full project: backend, frontend, ml-service (tanpa venv/node_modules/model)
+b1532516c121b19b6ad61cbb8df5d8088127c52a 0000000000000000000000000000000000000000 PrinceRuli <princeruli92@gmail.com> 1777190798 +0700	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 b1532516c121b19b6ad61cbb8df5d8088127c52a PrinceRuli <princeruli92@gmail.com> 1777190798 +0700	Branch: renamed refs/heads/master to refs/heads/main
+b1532516c121b19b6ad61cbb8df5d8088127c52a b1532516c121b19b6ad61cbb8df5d8088127c52a PrinceRuli <princeruli92@gmail.com> 1777191054 +0700	checkout: moving from main to main
+b1532516c121b19b6ad61cbb8df5d8088127c52a ae3578d7b8f349850f3a17f5881fbeb6145a40bc PrinceRuli <princeruli92@gmail.com> 1777218581 +0700	commit: Update frontend for Vercel deployment
+ae3578d7b8f349850f3a17f5881fbeb6145a40bc d43da632cfbc67e155a5002ea052c3cbbc7c0d79 PrinceRuli <princeruli92@gmail.com> 1777218874 +0700	commit: Update frontend for Vercel deployment
+d43da632cfbc67e155a5002ea052c3cbbc7c0d79 b3940111bd4ec74aee9c9441f2b2bd07152d2aaa PrinceRuli <princeruli92@gmail.com> 1777219005 +0700	pull origin main --rebase (start): checkout b3940111bd4ec74aee9c9441f2b2bd07152d2aaa
